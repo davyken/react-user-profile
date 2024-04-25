@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #00DBDE;
+  background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);  
+}
+
+button {
+  width: fit-content;
+  height: fit-content;
+  cursor: pointer;
+  border: none;
+}
+
+a {
+  color: unset;
+  cursor: pointer;
+  background-color: #00DBDE;
+  background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);  
+}
+
+ul,
+li {
+  list-style: none;
+  background-color: #00DBDE;
+  background-image: linear-gradient(90deg, #00DBDE 0%, #FC00FF 100%);  
+}
